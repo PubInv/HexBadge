@@ -42,6 +42,14 @@ The Public Invention colors are Green and White---and that color theam should be
 
 The US Girl Scout badges are 1.5" in diameter. We suggest hexagons with are 1.5 cm on a size, which is 3 cm from point-to-point. This is slightly smaller than a girl scout badge.
 
+## OpenSCAD Embodiment
+
+Although not yet created, we imagine and OpenSCAD implementation that allows 
+badges and holders to be implemented. Each new badge should be a bas relif
+addition to a standard backing.
+
+
+
    
 
 
