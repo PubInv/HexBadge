@@ -38,6 +38,10 @@ The Public Invention colors are Green and White---and that color theam should be
 6. Skill badges
 7. Staff badges
 
+## Suggested Size
+
+The US Girl Scout badges are 1.5" in diameter. We suggest hexagons with are 1.5 cm on a size, which is 3 cm from point-to-point. This is slightly smaller than a girl scout badge.
+
    
 
 
