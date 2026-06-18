@@ -7,6 +7,13 @@ The idea is to create a badging system which is of course reusable by others, bu
 The idea is to make a standard 3D printable badges in a hexagonal form, and a set of holders to hold them in place,
 much like military ribbon holders.
 
+## Initial design idea
+
+This is a screen shot for the OpenSCAD design:
+
+<img width="994" height="492" alt="Screenshot 2026-06-18 at 11 03 08 AM" src="https://github.com/user-attachments/assets/61cdcb2b-bf61-41d0-813e-9db7bbbf9e6b" />
+
+
 ## A Threaded Mounting System
 
 Becasue the system must be remountable when a volunteer is given a new badge, I imagine a system in which the 
